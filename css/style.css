@@ -377,7 +377,7 @@ body {
     left: 0;
     top: 0;
     height: 100%;
-    background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));
+    background: #F5BE27;
     border-radius: 10px;
     width: 0;
     animation: skillLoad 2s ease forwards;
