@@ -119,7 +119,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-   background:  --primary-color;
+   background:  #6366f1;
     padding-top: 80px;
 }
 
